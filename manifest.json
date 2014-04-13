@@ -1,0 +1,17 @@
+{
+  "BundleIdentifier": "musision",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "RequiredPermissions": [
+    "https://api.mygreatapp.com"
+  ],
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "VendorIdentifier": "com.myorganization"
+}
